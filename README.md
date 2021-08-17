@@ -1,0 +1,1 @@
+## The boilerplate code for a client-server app.
